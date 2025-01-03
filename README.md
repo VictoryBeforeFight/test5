@@ -6,11 +6,11 @@
 ## Git workflow
 
 ### 전체 플로우
-1. github main repo create ${\color{#b9ffeb}(open repo(main branch))}$
-2. local PC main clone ${\color{#b9ffeb}(local pull only branch)}$
-3. local PC SUB Branch create ${\color{#b9ffeb}(local my branch)}$
-4. github SUB Branch push ${\color{#b9ffeb}(local my branch -> open repo)}$
-5. github에서 pull request ${\color{#b9ffeb}(local my branch -> main branch)}$
+1. github main repo create ${\color{#b9ffeb}(open\ repo(main\  branch))}$
+2. local PC main clone ${\color{#b9ffeb}(local\ pull\ only\ branch)}$
+3. local PC SUB Branch create ${\color{#b9ffeb}(local\ my\ branch)}$
+4. github SUB Branch push ${\color{#b9ffeb}(local\ my\ branch -> open\ repo)}$
+5. github에서 pull request ${\color{#b9ffeb}(local\ my\ branch -> main\ branch)}$
    <br>
 => ${\color{#ff8d9d}github\ main\ repo\ (main\ branch)에\ 추가됨}$
 
