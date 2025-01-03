@@ -1,6 +1,6 @@
 <!-- github-markdown-css -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.css" rel="stylesheet">
-
+<style>
 # 깃 연습
 
 ## Git workflow
@@ -25,3 +25,4 @@
 - 원격 저장소가 자신의 소유이거나 collaborator로 등록되어 있는 경우에 가능
 - master에 직접 개발하는 것이 아니라, 기능별로 브랜치를 따로 만들어서 개발
 - Pull Request를 같이 사용하여 팀원 간 변경 내용에 대한 소통
+</style>
