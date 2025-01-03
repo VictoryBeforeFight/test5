@@ -1,5 +1,6 @@
 *.html
 # .gitignore
+# ㅇㅇㅇ
 # ---
 # .확장자 = 해당 확장자 전부 ignore
 # 파일명.확장자 = 해당 파일 ignore
