@@ -2,7 +2,7 @@
 
 <h1> H1 </h1>
 
-```
-py
+```java
 print("a")
+System.out.println('a')
 ```
