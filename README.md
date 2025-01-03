@@ -18,7 +18,7 @@
 
 1. local PC main pull
    <br>
-=> ${\color{#ff8d9d}업데이트 된 main repo 적용}$
+=> ${\color{#ff8d9d}업데이트\ 된\ main\ repo\ 적용}$
 
 ---
 ### info
