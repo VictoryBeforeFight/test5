@@ -7,12 +7,12 @@
 2. local PC main clone (local pull only branch)
 3. local PC SUB Branch create (local my branch)
 4. github SUB Branch push (local my branch -> open repo)
-5. github에서 pull request (local my branch -> main branch)
+5. github에서 pull request (local my branch -> main branch) <br>
 => github main repo(main branch)에 추가됨
 
 ---
 
-6. local PC main pull
+6. local PC main pull <br>
 => 업데이트 된 main repo 적용
 
 ---
