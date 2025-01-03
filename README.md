@@ -12,13 +12,13 @@
 4. github SUB Branch push ${\color{#b9ffeb}(local my branch -> open repo)}$
 5. github에서 pull request ${\color{#b9ffeb}(local my branch -> main branch)}$
    <br>
-=> ${\color{#ff8d9d}github main repo(main branch)에 추가됨}$
+=> ${\color{#ff8d9d}github main repo(main branch)에/추가됨}$
 
 ---
 
 1. local PC main pull
    <br>
-=>${\color{#ff8d9d}업데이트 된 main repo 적용}$
+=> ${\color{#ff8d9d}업데이트 된 main repo 적용}$
 
 ---
 ### info
